@@ -1,0 +1,22 @@
+{
+  "name": "car-api",
+  "version": "1.0.0",
+  "description": "training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayualdilasalma/car-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayualdilasalma/car-api/issues"
+  },
+  "homepage": "https://github.com/ayualdilasalma/car-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
